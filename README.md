@@ -13,7 +13,7 @@
 > • GitHub
 > • Git
 > • Netlify
-# Deploy link:-
+# Deploy link:-https://innovation-reactjs-cc6473.netlify.app/
 # Getting Started with Create React App
 
 This project was  with [Create React App](https://github.com/facebook/create-react-app).
